@@ -35,7 +35,7 @@ Others can test this code by downloading the code and trying it out on either Po
 
 ## URL
 
- ### Book Search [https://booksearcher21.herokuapp.com/](https://booksearcher21.herokuapp.com/)
+ ### Book Search [https://rumtikitum.github.io/GoogleBookSearch/](https://rumtikitum.github.io/GoogleBookSearch/)
 
 ## Contact
 
